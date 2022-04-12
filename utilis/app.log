@@ -1,0 +1,8 @@
+uvicorn.error - INFO - Started server process [20656]
+uvicorn.error - INFO - Waiting for application startup.
+uvicorn.error - INFO - Application startup complete.
+uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+uvicorn.error - INFO - Shutting down
+uvicorn.error - INFO - Waiting for application shutdown.
+uvicorn.error - INFO - Application shutdown complete.
+uvicorn.error - INFO - Finished server process [20656]

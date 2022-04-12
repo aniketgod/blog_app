@@ -1,0 +1,3 @@
+uvicorn.error - INFO - Started server process [40228]
+uvicorn.error - INFO - Waiting for application startup.
+uvicorn.error - INFO - Application startup complete.
